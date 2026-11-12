@@ -1,0 +1,175 @@
+[
+    {
+        "id": 1,
+        "name": "Creamy Garlic Pasta",
+        "category": "Dinner",
+        "time": "25 minutes",
+        "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "ingredients": [
+            "200g pasta",
+            "3 garlic cloves",
+            "1 cup fresh cream",
+            "2 tablespoons butter",
+            "Salt and pepper",
+            "Parmesan cheese"
+        ],
+        "instructions": [
+            "Boil pasta in salted water until cooked.",
+            "Melt butter in a pan and add chopped garlic.",
+            "Add fresh cream, salt and pepper.",
+            "Mix the cooked pasta into the sauce.",
+            "Add cheese and serve warm."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Classic Margherita Pizza",
+        "category": "Dinner",
+        "time": "35 minutes",
+        "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
+        "ingredients": [
+            "1 pizza base",
+            "1/2 cup pizza sauce",
+            "Mozzarella cheese",
+            "Fresh basil leaves",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Spread pizza sauce over the base.",
+            "Add mozzarella cheese.",
+            "Place fresh basil leaves on top.",
+            "Bake until the cheese melts and the base is crisp.",
+            "Slice and serve."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Fresh Garden Salad",
+        "category": "Lunch",
+        "time": "15 minutes",
+        "image": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg",
+        "ingredients": [
+            "1 cucumber",
+            "2 tomatoes",
+            "1 carrot",
+            "Lettuce leaves",
+            "Lemon juice",
+            "Salt and pepper"
+        ],
+        "instructions": [
+            "Wash all vegetables thoroughly.",
+            "Chop the vegetables into small pieces.",
+            "Place them in a large bowl.",
+            "Add lemon juice, salt and pepper.",
+            "Toss well and serve fresh."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Chocolate Pancakes",
+        "category": "Breakfast",
+        "time": "20 minutes",
+        "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+        "ingredients": [
+            "1 cup flour",
+            "2 tablespoons cocoa powder",
+            "1 egg",
+            "1 cup milk",
+            "2 tablespoons sugar",
+            "Chocolate syrup"
+        ],
+        "instructions": [
+            "Mix flour, cocoa powder and sugar.",
+            "Add egg and milk to make a smooth batter.",
+            "Heat a lightly greased pan.",
+            "Pour batter and cook both sides.",
+            "Serve with chocolate syrup."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Strawberry Cheesecake",
+        "category": "Dessert",
+        "time": "45 minutes",
+        "image": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg",
+        "ingredients": [
+            "Cream cheese",
+            "Digestive biscuits",
+            "Butter",
+            "Sugar",
+            "Fresh strawberries",
+            "Fresh cream"
+        ],
+        "instructions": [
+            "Crush the biscuits and mix with melted butter.",
+            "Press the mixture into a cake tin.",
+            "Beat cream cheese, sugar and fresh cream.",
+            "Spread the mixture over the biscuit base.",
+            "Add strawberry topping and chill until set."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Vegetable Fried Rice",
+        "category": "Lunch",
+        "time": "25 minutes",
+        "image": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg",
+        "ingredients": [
+            "2 cups cooked rice",
+            "1 carrot",
+            "1/2 cup beans",
+            "Spring onions",
+            "2 tablespoons soy sauce",
+            "Salt and pepper"
+        ],
+        "instructions": [
+            "Chop all vegetables into small pieces.",
+            "Heat oil in a pan and saute the vegetables.",
+            "Add cooked rice.",
+            "Add soy sauce, salt and pepper.",
+            "Mix well and garnish with spring onions."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Avocado Toast",
+        "category": "Breakfast",
+        "time": "10 minutes",
+        "image": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg",
+        "ingredients": [
+            "2 slices of bread",
+            "1 ripe avocado",
+            "Lemon juice",
+            "Salt and pepper",
+            "Chilli flakes"
+        ],
+        "instructions": [
+            "Toast the bread slices.",
+            "Mash the avocado in a bowl.",
+            "Add lemon juice, salt and pepper.",
+            "Spread the mixture over the toast.",
+            "Sprinkle chilli flakes and serve."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Chocolate Lava Cake",
+        "category": "Dessert",
+        "time": "30 minutes",
+        "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
+        "ingredients": [
+            "100g dark chocolate",
+            "50g butter",
+            "2 eggs",
+            "1/4 cup sugar",
+            "2 tablespoons flour"
+        ],
+        "instructions": [
+            "Melt chocolate and butter together.",
+            "Whisk eggs and sugar in a bowl.",
+            "Combine both mixtures and add flour.",
+            "Pour into greased ramekins.",
+            "Bake until the outside is set and the centre remains soft."
+        ]
+    }
+]
